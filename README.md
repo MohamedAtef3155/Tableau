@@ -2,7 +2,7 @@
 
 
                                           
-                                                    # AdventureWorks DashBoards
+                                              # AdventureWorks DashBoards
 
 
 ![Customer Orders](https://user-images.githubusercontent.com/126327548/225116541-8f831ba9-8a7e-4a81-811c-215b4793ee98.png)
@@ -17,7 +17,7 @@
 ![Market](https://user-images.githubusercontent.com/126327548/225116647-b135b95d-3c49-4dd2-af93-296087603848.png)
 
 
-                                                     # Ecommerce DashBoard
+                                               # Ecommerce DashBoard
                                           
                                             
 ![E Commerce Task1](https://user-images.githubusercontent.com/126327548/225116709-1a2c7fcc-6a03-4296-b289-24ef11712291.png)
